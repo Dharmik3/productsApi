@@ -21,11 +21,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -40,9 +38,9 @@ This project focusing on the REST API. This API is fully functional with filteri
 
 ### Built With
 
-* [![Node js][Nodejs.js]][Nodejs-url]
-* [![Express][Express.js]][Express-url]
-* [![MongoDB][Mongodb.js]][Mongodb-url]
+* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+* ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+* ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -104,9 +102,6 @@ Below are the query parameter which is passed in the form of key value pair
 * page
 * sort
 
-[![Screen Shot][product-screenshot-1]]
-[![Screen Shot][product-screenshot-2]]
-<img src="https://github.com/Dharmik3/productsApi/blob/main/img/productsapi1.png" alt="Logo" width="80" height="80">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -122,9 +117,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -137,7 +129,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Dharmik Patel - [@dharmik](https://twitter.com/dharmikS_patel) - dharmikpatel.pepalla@gmail.com
 
-Project Live Link: [https://productsapi.up.railway.app/api/v1/products/](https://productsapi.up.railway.app/api/v1/products/)
+Live Project Link: [https://productsapi.up.railway.app/api/v1/products/](https://productsapi.up.railway.app/api/v1/products/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
