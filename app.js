@@ -19,7 +19,7 @@ const start = async() => {
             console.log('🥳 connected successfully... 🥳');
         }
         app.listen(PORT, () => {
-            console.log(`server running on ${PORT}`);
+            console.log(`server is running`);
         })
     } catch (err) {
         console.log(`😒 ${err}`);
