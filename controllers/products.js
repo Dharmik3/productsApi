@@ -1,7 +1,7 @@
 const Product=require('../models/products')
 const getAllProducts = async (req, res) => {
 
-    const { name, company, featured } = req.query;
+    const { name, company, featured,sort } = req.query;
     const queryObject = {};
     
     if (company) {
@@ -13,8 +13,13 @@ const getAllProducts = async (req, res) => {
     if (name) {
         queryObject.name = { $regex: name, $options: 'i' };
     }
-    
-    const products=await Product.find(queryObject)
+    let sortObject={}
+    if (sort) {
+        sortObject = sort.split(',').join(' ');
+    }
+   
+console.log(sortObject);
+    const products=await Product.find(queryObject).sort(sortObject)
     res.status(201).json({products})
 }
 
