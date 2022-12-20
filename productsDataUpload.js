@@ -7,6 +7,7 @@ const start = async() => {
     
     try {
         await connection(process.env.MONGO_URL);
+        Product.deleteMany()
        const res= await Product.create(productsData);
         if (res) {
         console.log('productsdata uploaded successfully');

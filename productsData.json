@@ -40,5 +40,47 @@
 "price": 204,
 "featured": false,
 "company": "apple"
+},
+{
+"name": "watch12",
+"price": 3042,
+"featured": true,
+"company": "apple"
+},
+{
+"name": "watch",
+"price": 2034,
+"featured": true,
+"company": "samsung"
+},
+{
+"name": "M30s",
+"price": 15000,
+"featured": true,
+"company": "samsung"
+},
+{
+"name": "iphone13",
+"price": 65000,
+"featured": true,
+"company": "apple"
+},
+{
+"name": "note10 pro",
+"price": 20000,
+"featured": true,
+"company": "mi"
+},
+{
+"name": "dell inspiron",
+"price": 40000,
+"featured": true,
+"company": "dell"
+},
+{
+"name": "dell inspiron 7",
+"price": 48000,
+"featured": true,
+"company": "dell"
 }
 ]
