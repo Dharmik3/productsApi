@@ -102,6 +102,11 @@ Below are the query parameter which is passed in the form of key value pair
 * page
 * sort
 
+<img width="1440" alt="productsapi1" src="https://user-images.githubusercontent.com/78194918/208819054-9a03d08e-2b16-400a-a6ef-de5227b42242.png">
+
+<img width="1425" alt="productsapi2" src="https://user-images.githubusercontent.com/78194918/208819058-6c4829f5-a45c-4301-8a49-d5425c7174d5.png">
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
