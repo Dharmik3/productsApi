@@ -138,8 +138,6 @@ Live Project Link: [https://productsapi.up.railway.app/api/v1/products/](https:/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Thank you for your interest!
-
 [product-screenshot-1]: https://github.com/Dharmik3/productsApi/blob/main/img/productsapi1.png
 [product-screenshot-2]: https://github.com/Dharmik3/productsApi/blob/main/img/productsapi2.png
 [Nodejs.com]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
