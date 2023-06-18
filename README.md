@@ -94,7 +94,7 @@ _For more examples, please refer to the [live link](https://productsapi.up.railw
 If you wants to pass some query parameters then the following is the example
 
  ```js
-   https://productsapi.up.railway.app/api/v1/products/?sort=name,-price&limit=5&select=name
+   https://products-myg3.onrender.com/api/v1/products/?sort=name,-price&limit=5&select=name
    ```
 Below are the query parameter which is passed in the form of key value pair
 * select
@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Dharmik Patel - [@dharmik](https://twitter.com/dharmikS_patel) - dharmikpatel.pepalla@gmail.com
 
-Live Project Link: [https://productsapi.up.railway.app/api/v1/products/](https://productsapi.up.railway.app/api/v1/products/)
+Live Project Link: [https://productsapi.up.railway.app/api/v1/products/](https://products-myg3.onrender.com/api/v1/products)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
