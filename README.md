@@ -30,9 +30,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 
-### Products Restful API
+### Products Rest API
 
 This project focusing on the REST API. This API is fully functional with filtering, pagination, sorting and selecting. It's fetching the data from the database and provide the products details, so you can able to use this data on the client side in your projects.
 
@@ -44,8 +43,6 @@ This project focusing on the REST API. This API is fully functional with filteri
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you setting up project locally.
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
@@ -69,7 +66,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 4. Create `.env` file and put MongoDB url in `.env`
    ```js
-   const MONGO_URL = ENTER YOUR MONGO URL (without inverted commas);
+   MONGO_URL = ENTER YOUR MONGO URL (without inverted commas);
    ```
 5. Run  following command in terminal
    ```sh
